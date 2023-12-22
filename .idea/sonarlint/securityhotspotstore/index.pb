@@ -1,63 +1,9 @@
 
-‰
-Ysrc/academy/spirala/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.java,b\0\b00ad4eb401b4c0a92b4b2ba5519bd761e03cc3c
-|
-Lsrc/academy/spirala/maratonajava/javacore/Zgenerics/test/WildcardTest01.java,6\9\69a63ae80f17f0d8047ece96fabda3a75b9b4a3f
-|
-Lsrc/academy/spirala/maratonajava/javacore/Zgenerics/test/WildcardTest02.java,b\b\bbe91bc464163ddf14c29ed2f02b1f247bb07fcf
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 @
 MaratonaJava.iml,1\a\1af7944cfa0a8da55981b3154c0d7c5eae69040f
-r
-Bsrc/academy/spirala/maratonajava/introducao/Aula001OlaDevDojo.java,9\4\946810615cabc84080b2011122fede9065759ed8
-w
-Gsrc/academy/spirala/maratonajava/introducao/Aula010TiposPrimitivos.java,1\f\1f1728a1a748034e4e0253134cbd58ed99037478
-ˆ
-Xsrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/teste/EstudanteTeste01.java,0\c\0c7d7231c50c1fd544b09be48b769810e78f1eda
-€
-Psrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/dominio/Pessoa.java,e\b\eb48d8d16c980e9446e435862fe77de413edd530
-…
-Usrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/teste/PessoaTeste01.java,f\5\f53702a8e3388e3f7c400ccc161cb6e013e6c83b
-ˆ
-Xsrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/teste/EstudanteTeste02.java,3\c\3c8dc62bfd1c713fde471637c6984e272447bb0e
-
-Q.idea/sonarlint/securityhotspotstore/b/0/b00ad4eb401b4c0a92b4b2ba5519bd761e03cc3c,a\9\a93fb7852ff4c87d1367dd6384a28eda68c8c499
-ƒ
-Ssrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java,2\7\277b759126b45239e13001041b7a0080818e4401
-ƒ
-Ssrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java,0\9\096144dfa084cc95da685fd2e56e6d375b4375af
-ˆ
-Xsrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/teste/ProfessorTeste01.java,8\7\87a3cede65b5da254deee5bd9119fe3e9e335ac2
-|
-Lsrc/academy/spirala/maratonajava/javacore/Ycolecoes/teste/EqualsTeste01.java,0\b\0b231cda9b36b1e45de6100aab62234a2787c210
-z
-Jsrc/academy/spirala/maratonajava/javacore/Ycolecoes/teste/ListTeste01.java,3\f\3f052cc83b63238742d199cebfbc038cc6cd40bf
-
-Q.idea/sonarlint/securityhotspotstore/6/9/69a63ae80f17f0d8047ece96fabda3a75b9b4a3f,2\7\27c2fae31b5006883e76729239c91ec2d392ba79
-ƒ
-Ssrc/academy/spirala/maratonajava/introducao/Aula030EstruturasDeRepeticao4Break.java,7\7\770362d8bfcc1361e8652b2910aee3c8e8bdd044
-€
-Psrc/academy/spirala/maratonajava/introducao/Aula014TiposPrimitivosExercicio.java,7\3\734343967fadec549cba8eb2244d290d8cd80271
-
-Osrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java,f\7\f74e69f593accaa994c6b54a7a62999b9f969587
-„
-Tsrc/academy/spirala/maratonajava/javacore/Aintroducaoclasses/teste/CarroTeste01.java,2\8\285c614e3cfc8938a9dfacd8ed3ada51b6f522e0
-{
-Ksrc/academy/spirala/maratonajava/javacore/Ycolecoes/dominio/Smartphone.java,5\8\58dde7de36c026550485fb74958b8f2f89c31821
-|
-Lsrc/academy/spirala/maratonajava/javacore/Zgenerics/test/GenericsTest01.java,d\3\d3dd06cbac82561a542dbf80496b68a2c7f4c234
-{
-Ksrc/academy/spirala/maratonajava/introducao/Aula015OperadoresNumericos.java,2\5\25dbd5e343753640364438a81262167b217653ee
-y
-Isrc/academy/spirala/maratonajava/introducao/Aula016OperadoresLogicos.java,9\b\9bc619387711fe74bc2191917156fad5be6ec621
-
-Q.idea/sonarlint/securityhotspotstore/b/b/bbe91bc464163ddf14c29ed2f02b1f247bb07fcf,c\5\c53245bd9a20f03753221a92e070b8045438e3e6
-w
-G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
-
-Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
 C
 My Notes/index.html,d\3\d3dfee5e47ff9a895e0fc5f01d12b55f93997679
 B
@@ -68,3 +14,17 @@ S
 #My Notes/02-como-java-funciona.html,8\2\820e5047f6a1015e2af41045553c1c109b21e841
 ?
 My Notes/images,c\8\c8517ce6b66ba74e34ccff8e61a7f44cbe47980c
+@
+docs2/index.html,2\2\229a273a8f844fdd7d8f9f4f503246f3b3098d37
+P
+ docs2/02-como-java-funciona.html,e\3\e3e6d65bdfcbe43ac14d6a71e61cf61f62100d08
+?
+docs/index.html,8\c\8c0d6b0dca5817118d2f528acb81b643d000c69a
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+>
+docs/style.css,5\3\5377bff0429bf8e28c4fea416ebd6657f015a643
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+O
+docs/02-como-java-funciona.html,9\f\9faeb265d77280da7d907108d5cdc458fddbf64e
