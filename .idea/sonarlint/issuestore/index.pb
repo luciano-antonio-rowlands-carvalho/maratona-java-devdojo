@@ -58,3 +58,13 @@ w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+C
+My Notes/index.html,d\3\d3dfee5e47ff9a895e0fc5f01d12b55f93997679
+B
+My Notes/style.css,4\3\4304500be375e56efb10f817bf37feac9f817f38
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+S
+#My Notes/02-como-java-funciona.html,8\2\820e5047f6a1015e2af41045553c1c109b21e841
+?
+My Notes/images,c\8\c8517ce6b66ba74e34ccff8e61a7f44cbe47980c
